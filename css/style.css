@@ -402,7 +402,7 @@ a:hover {
 
 .navbar-b {
   transition: all .5s ease-in-out;
-  background-color: #ffc107;
+  background-color: #8df5fc52;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
 }
@@ -476,8 +476,8 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
