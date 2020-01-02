@@ -402,7 +402,7 @@ a:hover {
 
 .navbar-b {
   transition: all .5s ease-in-out;
-  background-color: #8df5fc52;
+  background-color: #ffffff00;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
 }
@@ -420,7 +420,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: rgb(5, 5, 5);
   text-transform: uppercase;
   font-weight: 600;
 }
