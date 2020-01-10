@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #00fcfc;
 }
 
 .overlay-mf {
@@ -397,12 +397,12 @@ a:hover {
 }
 
 /*======================================
-//--//-->   NAVBAR
+//--//-->   NAVBAR             background-color: #ffffff00;
 ======================================*/
 
 .navbar-b {
   transition: all .5s ease-in-out;
-  background-color: #ffffff00;
+  background-color: #ffc107;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
 }
@@ -470,7 +470,7 @@ a:hover {
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: rgb(6, 234, 250);
+  color: rgb(8, 8, 8);
 }
 
 .navbar-b.navbar-reduce {
@@ -1289,6 +1289,8 @@ footer .credits a {
   background-color: #53def591;
   border-radius: 50%;
   display: inline-table;
+  line-height:0;
+
 }
 
 
