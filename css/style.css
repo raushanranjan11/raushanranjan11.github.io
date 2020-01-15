@@ -1213,6 +1213,9 @@ footer .credits a {
   .navbar-b.navbar-reduce .nav-link:before {
     margin-left: 18px;
   }
+  .t-logo{
+    font-size: 2.5rem;
+  }
 
   .intro .intro-title {
     font-size: 4.5rem;
